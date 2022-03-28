@@ -22,8 +22,11 @@ Yes it does.  Considering the significant p-value noted above and the multiple R
 
 2a.   The current manufacturing data does meet the design specification for all manufacturing lots in total because the variance is 6.229 which is less than 100.  
 2b.  Specific answers by lot:
+
 Lot A:  meets the design requirement, the variance is very small:  .97
+
 Lot B: meets the design requirement, variance is small and less than 100 at 7.46
+
 Lot C:  does not meet the design requirement, the variance is 170 and above the threshold of 100.
 
 
@@ -40,8 +43,11 @@ Lot C:  does not meet the design requirement, the variance is 170 and above the 
 3a answer:  For the total sample, the mean is 14.98.78, and the p=value is greater than .05 at .06028 so we cannot reject the null hypothesis.
 3b.  
 i.  For lot A, the mean is 1500 and the p-value is 1, we cannot reject the null hypothesis that there is no statistical difference between observed sample mean and population mean of 1500.
+
 ii.   For lot B, the mean is 1500.2 and p-value of .61; and we cannot reject the null hypothesis that there is no statistical difference between observed sample mean and population mean of 1500.
+
 iii.  For lot C, the mean is 1496.14 and p-value of .04; which is lower than .05 which is the threshold of significance.  It looks like we can reject the null hypothesis.  
+
 iv.  Overall, it looks like something is off with lot C.  We should investigate further.  
 
 
