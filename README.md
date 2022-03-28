@@ -59,7 +59,7 @@ iv.  Overall, it looks like something is off with lot C.  We should investigate 
 **##Deliverable 4: Study Design:  MechaCar vs. Competition:
 Statistical Study:
 
-A.  What metric or metrics are you going to test?**
+**A.  What metric or metrics are you going to test?****
 My dependent variable is going to be sales price.  My independent variables are going to be  city and highway MPG, safety ratings, vehicle seat capacity, and horsepower.
 
 **B.  What is the null hypothesis or alternative hypothesis?**
