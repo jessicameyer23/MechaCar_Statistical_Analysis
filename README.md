@@ -23,7 +23,7 @@ C.  Does this linear model predict mpg of MechaCar prototypes effectively? Why o
 #Deliverable 3: T-Test on Suspension Coils
 #Summary of interpretation and findings for the t-test results: 
 
-![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%20Picture%20of%20Returns%202022-01-06%20075403.png)
+![image_name](https://github.com/jessicameyer23/MechaCar_Statistical_Analysis/blob/main/deliverable%203a%20image2022-03-27%20095822.png)
 ![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%20Picture%20of%20Returns%202022-01-06%20075403.png)
 
 
